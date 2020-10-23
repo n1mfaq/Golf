@@ -27,6 +27,7 @@
     "gulp-postcss": "^8.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.1.0",
+    "imagesloaded": "^4.1.4",
     "prettier": "^2.0.5"
   }
 }
